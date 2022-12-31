@@ -1,7 +1,7 @@
-### Insertion Sort
+# Insertion Sort
 - 22,27,16,2,18,6
 
-# Insertion Sort Aşamaları
+### Insertion Sort Aşamaları
 ---
 - 22,27,16,2,18,6  --> 1.Aşama
 - 16,22,27,2,18,6  --> 2.Aşama
@@ -18,11 +18,11 @@
 - +Average Case'e girer çünkü sıralandıktan sonra 18 tam ortada olur.
 
 ---
-### Selection Sort 
+# Selection Sort 
 
 - 7,3,5,8,2,9,4,15,6
 
-# Selection Sort Ilk 4 Aşama
+### Selection Sort Ilk 4 Aşama
 ---
 
 - 2,3,5,8,7,9,4,15,6 --> 1.Aşama
