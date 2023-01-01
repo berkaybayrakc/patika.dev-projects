@@ -2,7 +2,7 @@ package Java101Projects;
 
 import java.util.Scanner;
 
-public class CalculateAverage {
+public class NotOrtalamasıHesaplama {
     public static void main(String[] args) {
 
         int mat,fizik,tarih,muzik,turkce,kimya;
